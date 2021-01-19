@@ -17,6 +17,7 @@ class ViewController: UIViewController {
 
     @IBAction func Button(_ sender: Any) {
         print("ボタンが押されたよ")
+        print("よくできたね！")
     }
     
 }
