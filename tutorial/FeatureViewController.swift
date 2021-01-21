@@ -13,6 +13,7 @@ class FeatureViewController: UIViewController {
         super.viewDidLoad()
 
         print("feature")
+        print("追加したよん")
     }
     
 
