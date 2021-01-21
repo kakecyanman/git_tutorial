@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         print("ボタンが押されたよ")
         print("よくできたね！")
         print("git diff")
+        print("github_flow")
     }
     
 }
